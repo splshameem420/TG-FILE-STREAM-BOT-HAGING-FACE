@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+aiohttp
+aiofiles
+motor
+pillow
+flask-cors
+uvicorn
+gunicorn
